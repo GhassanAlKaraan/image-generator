@@ -1,3 +1,3 @@
-# my_spirit_animal
+# Image Generator
 
-A new Flutter project.
+A new Flutter project: Using theForgeAi.com API
